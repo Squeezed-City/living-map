@@ -1,0 +1,21 @@
+crop_height_percentage = 0.494
+output_width = 1920
+output_height = 1920
+ORIGINAL_IMAGE_SIZE = 720, 1280
+
+#proximity_threshold=13
+proximity_threshold = 16
+
+dst_width = 750
+dst_height = 750
+x_offset = 610
+y_offset = 0
+topleft = 301,462
+topright = 767,420
+bottomright = 1213,503
+bottomleft = 580,645
+warped_topleft = -29,-1055
+warped_topright = 3169,724
+warped_bottomright = 573,1920
+warped_bottomleft = 20,1558
+FPS = 29.97
